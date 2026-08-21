@@ -1,0 +1,15 @@
+{
+  "name": "project-camp",
+  "version": "1.0.0",
+  "description": "my first backend project",
+  "license": "ISC",
+  "author": "Tarik",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.6"
+  }
+}
